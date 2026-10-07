@@ -1,0 +1,3 @@
+# CVE-2026-47884 (spring-webmvc, XsltView RCE): fix exists only in Spring Framework 7.0.9 (Spring Boot 4, major upgrade).
+# Not exploitable here: the app does not use XsltView or XSLT. Revisit when a 6.2.x fix is released.
+CVE-2026-47884
